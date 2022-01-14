@@ -76,6 +76,10 @@
      id="layer1"
      transform="translate(0,-87)">
     <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66499996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:53.70708847;stroke-opacity:1;paint-order:normal"
+       d="M 64.255951,224.06247 H 373.44046 v 74.07146 H 64.255951 Z"
+       id="rect2762" />
+    <path
        style="opacity:1;fill:#36c8b5;fill-opacity:1;stroke:none;stroke-width:1.05806768;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:53.70708847;stroke-opacity:1;paint-order:normal"
        d="M -0.75595242,86.727179 H 64.255949 V 297.88564 H -0.75595242 Z"
        id="rect815"
