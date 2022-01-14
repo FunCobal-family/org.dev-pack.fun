@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="373mm"
+   height="210mm"
+   viewBox="0 0 373 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="design_plan.svg">
+  <defs
+     id="defs2">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-2"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="656.85268"
+     inkscape:cy="505.35499"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="296mm"
+     showguides="false"
+     inkscape:window-width="1822"
+     inkscape:window-height="1051"
+     inkscape:window-x="1689"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="opacity:1;fill:#174981;fill-opacity:1;stroke:none;stroke-width:1.06341112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:53.70708847;stroke-opacity:1;paint-order:normal"
+       d="M -0.75595242,86.727179 H 64.255949 V 300.0238 H -0.75595242 Z"
+       id="rect815"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#94bdec;fill-opacity:1;stroke:none;stroke-width:1.62133992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:53.70708847;stroke-opacity:1;paint-order:normal"
+       d="M 64.255949,86.860814 H 372.68082 V 224.06247 H 64.255949 Z"
+       id="rect818"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot821"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,56.469648,92.669643)"><flowRegion
+         id="flowRegion823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect825"
+           width="457.14288"
+           height="115.71431"
+           x="320"
+           y="157.98653"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">FunCobal</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot829"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+         id="flowRegion831"><rect
+           id="rect833"
+           width="1042.8572"
+           height="434.28571"
+           x="320"
+           y="319.4151" /></flowRegion><flowPara
+         id="flowPara835"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot837"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,66.29703,82.08631)"><flowRegion
+         id="flowRegion839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect841"
+           width="735.71436"
+           height="208.57146"
+           x="292.85715"
+           y="319.4151"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">A fast, reliable &amp; scalable language</flowPara><flowPara
+         id="flowPara847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">For science, systems &amp; applications</flowPara><flowPara
+         id="flowPara845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">With powerful basis of </flowPara><flowPara
+         id="flowPara853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Scientific &amp; mathematical systems</flowPara></flowRoot>    <g
+       transform="matrix(0.44815473,0,0,0.44815473,56.745699,90.287982)"
+       id="layer1-7"
+       inkscape:label="レイヤー 1">
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4518"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4520"><rect
+             y="29.605837"
+             x="43.436558"
+             height="637.40625"
+             width="656.59918"
+             id="rect4522" /></flowRegion><flowPara
+           id="flowPara4524" /></flowRoot>      <text
+         transform="scale(1.1106805,0.90034894)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:296.91891479px;line-height:125%;font-family:Cambria;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.02502227"
+         x="8.0506973"
+         y="317.22281"
+         id="text4533"><tspan
+           style="stroke-width:2.02502227"
+           sodipodi:role="line"
+           x="8.0506973"
+           y="317.22281"
+           id="tspan4531"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:296.91891479px;font-family:Cambria;fill:#000000;stroke-width:2.02502227"
+             id="tspan4529">Γ</tspan></tspan></text>
+      <text
+         transform="scale(0.98292975,1.0173667)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:26.32152557px;line-height:125%;font-family:SimSun;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79210377"
+         x="130.96413"
+         y="282.83746"
+         id="text4539"><tspan
+           style="stroke-width:1.79210377"
+           sodipodi:role="line"
+           x="130.96413"
+           y="282.83746"
+           id="tspan4537"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:26.32152557px;font-family:SimSun;fill:#000000;stroke-width:1.79210377"
+             id="tspan4535"> </tspan></tspan></text>
+      <text
+         transform="matrix(0,1.0395268,-0.96197616,0,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:168.74752808px;line-height:125%;font-family:Cambria;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15087831"
+         x="162.35043"
+         y="-100.69687"
+         id="text4561"><tspan
+           style="stroke-width:1.15087831"
+           sodipodi:role="line"
+           x="162.35043"
+           y="-100.69687"
+           id="tspan4559"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:168.74752808px;font-family:Cambria;fill:#000000;stroke-width:1.15087831"
+             id="tspan4557">φ</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88606763px;line-height:125%;font-family:SimSun;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="93.556801"
+         y="205.63454"
+         id="text4567"><tspan
+           style="stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="93.556801"
+           y="205.63454"
+           id="tspan4565"><tspan
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.88606763px;font-family:SimSun;fill:#000000;stroke-width:0.26458332"
+             id="tspan4563"> </tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(0.10315352,0,0,0.10315352,-0.12841142,81.09317)"
+       id="layer1-75"
+       inkscape:label="レイヤー 1">
+      <path
+         id="rect815-2"
+         transform="matrix(0.26458333,0,0,0.26458333,0,97)"
+         d="M 601.98242,100.91797 536.73633,366.23242 H 368.84766 v 36.875 h 158.82226 l -46.42578,188.78711 h -66.35742 v 38.65625 h 100.22266 l 6.44531,1.58399 127.77343,-519.57813 z m -358.01758,10.02734 -60.53711,213.41797 h -0.28906 v 1.01563 l -85.187498,300.3164 46.908208,13.29883 78.7871,-277.75391 H 386.29883 V 324.36328 H 234.10547 l 49.58594,-174.81055 h 80.70312 v -38.60742 z"
+         style="opacity:1;fill:#f65140;fill-opacity:1;stroke:none;stroke-width:0.77774286;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.77774287, 1.55548577;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g1541"
+       transform="translate(-6.9490077,-3.6081386)"
+       style="fill:#988b8b;fill-opacity:1">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-1.4699824,93.147199)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#988b8b;fill-opacity:1;stroke:none"
+         id="flowRoot1523"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#988b8b;fill-opacity:1"
+           id="flowRegion1525"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#988b8b;fill-opacity:1"
+             y="15.418268"
+             x="98.246979"
+             height="116.63262"
+             width="217.42569"
+             id="rect1527" /></flowRegion><flowPara
+           id="flowPara1529">FunCobal</flowPara></flowRoot>      <text
+         id="text1533"
+         y="110.84678"
+         x="28.196936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#988b8b;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;fill:#988b8b;fill-opacity:1"
+           y="110.84678"
+           x="28.196936"
+           id="tspan1531"
+           sodipodi:role="line">family project</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#f65140;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.5449407,110.65007 H 63.209243"
+       id="path2664"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
