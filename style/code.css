@@ -1,0 +1,64 @@
+@import "./std.css";
+
+code {
+  padding: calc(var(--va) * 0.1) calc(var(--va) * 0.1);
+  color: #24292e;
+  background: #fdfbf7;
+  border: calc(var(--va) * 0.1) solid #faefe0;
+}
+pre {
+  padding: calc(var(--va) * 1.5) calc(var(--va) * 0.1);
+  margin: calc(var(--va) * 0.1) calc(var(--va) * 6);
+  background: #fdfbf7;
+  border: calc(var(--va) * 0.1) solid #f6e4cc;
+  line-height: 0.7em;
+}
+pre code {
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+pre,
+:not(pre) code {
+  border-radius: calc(var(--va) * 0.4);
+}
+pre code .bra1 {
+  color: var(--jauneBrillant);
+}
+pre code .bra2 {
+  color: var(--hyacinth);
+}
+pre code .bra3 {
+  color: var(--cyclamenPink);
+}
+pre code .prag {
+  color: var(--appleGreen);
+  font-style: oblique;
+  font-weight: 600;
+}
+pre code .comm {
+  color: lightgrey;
+  font-style: oblique;
+}
+pre code .commDoc {
+  color: var(--appleGreen);
+  font-style: oblique;
+}
+pre code .kwd {
+  color: var(--cambridgeBlue);
+}
+pre code .fn {
+  color: var(--burgundy);
+  font-weight: 600;
+}
+pre code .type {
+  color: var(--framboise);
+  font-weight: 600;
+}
+pre code .str {
+  color: var(--viridian);
+}
+pre code .num,
+pre code .obj {
+  color: var(--khaki);
+}

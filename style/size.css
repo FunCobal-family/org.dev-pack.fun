@@ -1,0 +1,6 @@
+:root {
+  --va: calc((1vh + 1vw) / 2);
+  --vad: calc(var(--va) / 10);
+  --vac: calc(var(--va) / 100);
+  --vam: calc(var(--va) / 1000);
+}

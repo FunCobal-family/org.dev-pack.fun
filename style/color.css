@@ -1,0 +1,24 @@
+:root {
+  --grue: #36c8b5;
+  --lightCambridgeBlue: #9ae7eb;
+  --lightCambridgeBluePlus: #98dde7;
+  --cambridgeBlueMin: #95c9de;
+  --cambridgeBlue: #25b7c0;
+  --hyacinth: #6c9bd2;
+  --wistaria: #8d93c8;
+  --jauneBrillant: #ffdc00;
+  --framboise: #9a0d7c;
+  --burgundy: #6c2735;
+  --cyclamenPink: #d04f97;
+  --viridian: #00885a;
+  --appleGreen: #a7d28d;
+  --khaki: #c5a05a;
+  --lightBlueGrad: linear-gradient(
+    337deg,
+    var(--lightCambridgeBlue) 0%,
+    var(--lightCambridgeBluePlus) 39%,
+    var(--cambridgeBlueMin) 62%,
+    var(--wistaria) 100%
+  );
+  --hRed: #f65140;
+}
