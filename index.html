@@ -55,8 +55,10 @@
         </ul>
       </div>
       <div class="bannerArea">
-        <img src="./assets/images/FunCobal_cross_Ches_collab.svg" /><br /><br />
-        supported by DevPack
+        <a href=""
+          ><img src="./assets/images/FunCobal_cross_Ches_collab.svg" /></a
+        ><br /><br />
+        <a href="">supported by DevPack</a>
       </div>
     </div>
     <div class="contentsContainer bodyItem">
@@ -68,21 +70,38 @@
           </div>
           <div class="name">FunCobal</div>
           <div class="desc">
-            A fast, reliable & scalable language<br />
-            For science, systems & applications<br />
+            A fast, reliable &amp; scalable language<br />
+            For science, systems &amp; applications<br />
             With powerful basis of <br />
-            Scientific & mathematical systems
+            Scientific &amp; mathematical systems
           </div>
         </div>
       </div>
       <div class="followArea">
         <div class="syntaxEx">
-          <h3>&lt;/&gt;  Syntax Examples</h3>
+          <h3>&lt;/&gt; Syntax Examples</h3>
+          <pre>
+            <code class="FunCobal">
+              <span class="prag">#! test</span><br />
+              <span class="commDoc">--- import of outer program files, with settle of unique namespace.</span><br />
+              <span class="comm">-- with package name specifying.</span><br />
+              <span class="kwd">@import</span> <span class="obj">sample.sample</span> <span class="kwd">as</span> <span class="">sample1</span><br />
+              <span class="comm">-- with directory path specifying.</span><br />
+              <span class="kwd">@import</span> <span class="str">"./sample/sample.fcb"</span> <span class="kwd">as</span> <span class="">sample2</span><br />
+              <br />
+              <span class="commDoc">--- import of the core packages.</span><br />
+              <span class="kwd">@import</span> <span class="obj">Core.ExtIO.FileIO</span><br />
+              <span class="comm">-- `@import Core.` same as `@depend`</span><br />
+              <span class="kwd">@depend</span> <span class="obj">Math.StdMath</span><br />
+            </code>
+          </pre>
         </div>
         <div class="whatIs">
           <h3>What is FunCobal?</h3>
-          FunCobal is a language built on mathematical formulations, powerful algebraic systems and type systems, <br />
-          for fast, reliable & scalable science, industrial systems & applications, <br />
+          FunCobal is a language built on mathematical formulations, powerful
+          algebraic systems and type systems, <br />
+          for fast, reliable &amp; scalable science, industrial systems &amp;
+          applications, <br />
           supporting functional and object-oriented styles.
         </div>
       </div>
